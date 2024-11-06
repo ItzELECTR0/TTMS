@@ -1,0 +1,39 @@
+# Ignore System specific directories and files
+TTMSr/[Ll]ibrary/
+TTMSr/[Tt]emp/
+TTMSr/[Oo]bj/
+TTMSr/[Ll]ogs/
+
+# Deliberately ignored files
+TTMSr/.vsconfig
+TTMSr/[Aa]ssets/StreamingAssets/**/*.bank
+TTMSr/[Aa]ssets/Movies/EGUI.mov
+TTMSr/[Aa]ssets/Movies/EGUI.mov.meta
+
+# Deliberately ignored directories
+TTMSr/[Aa]ssets/3D/Licensed
+TTMSr/[Aa]ssets/3D/Licensed.meta
+TTMSr/[Uu]serSettings/
+
+# Ignore Visual Sudio Directory
+.vs/
+TTMSr/.vs/
+
+# Ignore VS Code directory
+.vscode/
+TTMSr/.vscode/
+
+# Ignore Visual Studio specific files
+TTMSr/.vs/
+
+# Ignore Rider specific files
+TTMSr/.idea/
+
+# Ignore Unity generated files
+*.sln
+*.csproj
+
+# Ignore temporary files and logs
+*.tmp
+*.temp
+*.log
