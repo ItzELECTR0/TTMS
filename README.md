@@ -14,7 +14,7 @@
 
 ## THE SECOND PROJECT
 'Today The Moon Shines' is ELECTRO's project 002
-The game is developed under ELECTRIS Game Stuidos and the project is under ELECTRIS
+<br>The game is developed under ELECTRIS Game Stuidos and the project is under ELECTRIS
 
 ## RESPONSIBILITY DISCLAIMER
 
@@ -57,7 +57,7 @@ I will first create a functional game. Make all of the story playable, then focu
 
 ## FAQ / FACTS AND QUESTIONS
 
-### WHY IS PROGRESS SO SLOW?
+### WHY THIS BEFORE TWAOS?
 
 Burnout.
 
