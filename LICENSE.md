@@ -1,4 +1,4 @@
-Licensing information for 'Today The Night Shines' by ELECTRIS & ELECTRIS Game Studios
+Licensing information for 'Today The Moon Shines' by ELECTRIS & ELECTRIS Game Studios
 
 ## ALL SOURCE CODE & ALL PUBLICLY AVAILABLE ASSETS
 
