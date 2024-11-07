@@ -17,7 +17,13 @@
 <br>The game is developed under ELECTRIS Game Stuidos and the project is under ELECTRIS
 
 ## OFFICIAL PAGES
-TTMS on Steam: **TBD**
+Today The Moon Shines on Steam: **TBD**
+
+## FLASHING LIGHTS DISCLAIMER
+  
+<img src=".github/Assets/FlashWarn.png" alt="flashwarnicon" width="100"/>
+
+#### The game contains flashing lights that may cause epileptic attacks, even upon booting up the game.<br> Consider yourself warned.
 
 ## RESPONSIBILITY DISCLAIMER
 
