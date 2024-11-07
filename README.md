@@ -16,6 +16,9 @@
 'Today The Moon Shines' is ELECTRO's project 002
 <br>The game is developed under ELECTRIS Game Stuidos and the project is under ELECTRIS
 
+## OFFICIAL PAGES
+TTMS on Steam: **TBD**
+
 ## RESPONSIBILITY DISCLAIMER
 
 Official support is not available to you. If you use the contents of this repository for anything other than building it yourself or examining the code, you are on your own. For any modifications, you will have to rely on yourself or the community for help. I hope this is an understandable request since this is a paid product offered for free officially. This repository will be maintained until the development of the game is complete. This is both an offering to the community and my cloud backup of the game.
@@ -26,23 +29,23 @@ Build it yourself. It's still free, and it's better than piracy.
 
 ## WHAT IS TTMS?
 Today The Moon shines is a small game.
-<br> It's purpose is to deal with the burnout caused by [TWAOS](https://github.com/ItzELECTR0/TWAOS) by being on much smaller scale
+<br> It's purpose is to deal with the burnout caused by **[TWAOS](https://github.com/ItzELECTR0/TWAOS)** by being on much smaller scale
 
 ## THE PREMISE
 The sun has vanished. The cause is unknown.
 <br>The moon shines during the day, nothing lights up the night.
-<br>Can you survive in a frozen wasteland?
+<br>Can you **survive** in a **frozen** wasteland?
 
 ## The STORY
-### TBD
+### **TBD**
 
 ## The GAMEPLAY
-### TBD
+### **TBD**
 
 ## DEVELOPMENT PLANS
 
 ### Story-wise:
-The game is planned to be a short story, and maybe some <b>extras</b>.
+The game is planned to have a short story, and maybe some <b>extras</b>.
 
 ### Game-wise:
 I will first create a functional game. Make all of the story playable, then focus on quality.
