@@ -38,7 +38,7 @@ Today The Moon shines is a small indie game.
 <br> It's purpose is to deal with the burnout caused by **[TWAOS](https://github.com/ItzELECTR0/TWAOS)** by being on much smaller scale
 
 ## THE PREMISE
-The sun has vanished. The cause is unknown.
+The sun has vanished. The cause is unknown. The earth is now floating in nothingness.
 <br>The moon shines during the day, nothing lights up the night.
 <br>Can you **survive** in a **frozen** wasteland?
 
