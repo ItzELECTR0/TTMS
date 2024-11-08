@@ -17,7 +17,7 @@
 <br>The game is developed under ELECTRIS Game Stuidos and the project is under ELECTRIS
 
 ## OFFICIAL PAGES
-Today The Moon Shines on Steam: **TBD**
+Today The Moon Shines on Steam: **N/A**
 
 ## FLASHING LIGHTS DISCLAIMER
   
@@ -34,7 +34,7 @@ Build it yourself. It's still free, and it's better than piracy.
 <br>(Don't buy non-official or 'cheap' keys, they are more often than not stolen and/or illegal)
 
 ## WHAT IS TTMS?
-Today The Moon shines is a small game.
+Today The Moon shines is a small indie game.
 <br> It's purpose is to deal with the burnout caused by **[TWAOS](https://github.com/ItzELECTR0/TWAOS)** by being on much smaller scale
 
 ## THE PREMISE
@@ -42,11 +42,11 @@ The sun has vanished. The cause is unknown.
 <br>The moon shines during the day, nothing lights up the night.
 <br>Can you **survive** in a **frozen** wasteland?
 
-## The STORY
-### **TBD**
+### THE STORY
+#### **TBD**
 
-## The GAMEPLAY
-### **TBD**
+### THE GAMEPLAY
+#### **TBD**
 
 ## DEVELOPMENT PLANS
 
